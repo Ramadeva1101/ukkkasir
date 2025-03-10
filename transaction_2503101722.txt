@@ -1,0 +1,17 @@
+Toko SKENSA
+Jl. HOS Cokroaminoto No. 84, Denpasar, Bali
+Telp : 08162857914
+ID Struk : 2503101722
+
+Nama Barang	Harga	Total	Diskon
+----------------------------------------------
+12 x Pensil	Rp.2000	Rp.24000	Rp.3599
+10 x Penggaris	Rp.1000	Rp.10000	Rp.1499
+----------------------------------------------
+Total Harga = Rp.34000,-
+Total Diskon = Rp.5098,-
+Tagihan = Rp.28902,-
+Pembayaran = Rp.120000,-
+Kembalian = Rp.91098,-
+
+Waktu/Hari : Mon Mar 10 17:22:50 2025
